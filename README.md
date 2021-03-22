@@ -1,4 +1,5 @@
 # COMPUTER ARCHITECTURE (CN210) ARCH63B
+วรรณชนะ มูลเมือง 6210612757
 1. CLIP2 https://youtu.be/Q1Qzm7axjGA
 2. CLIP3 https://youtu.be/90jmtIHCd0A
 3. CLIP4 https://youtu.be/4nEtMygc6B8
